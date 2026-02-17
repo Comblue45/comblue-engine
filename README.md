@@ -1,4 +1,5 @@
-# comblue-engine
+# comblue-miniframework
+This README.md is completely outdated and has a lot of wrong information. It will be updatet at latest in version 0.2 of the framework.
 Small python game engine based on pygame for creating 2D arcade games. It is in an early state (version 0.1).
 Note: The english in this README is really bad and the documentation is not the best. I will make a new and better one in the next version (probatly using HTML).
 
